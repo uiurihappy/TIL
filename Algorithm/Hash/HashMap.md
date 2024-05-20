@@ -4,6 +4,7 @@
 ## HashMap
 
 ![](HashMap1.png)
+
 HashMap은 `Map 인터페이스의 구현체`로 Key-Value 구조를 가지고 있다.
 해싱을 사용하기에 키를 통한 캐싱, 인덱싱 및 데이터 저장에 자주 사용한다.
 
@@ -34,6 +35,7 @@ HashMap은 저장공간보다 값이 추가로 들어오면 List처럼 저장공
 ---
 ## HashSet
 ![alt text](HashSet1.png)
+
 HashSet은 `Set 인터페이스의 구현체`로 컬렉션이자 중복된 요소를 저장하지 않는다.
 그렇기에 HashSet에 이미 저장되어 있는 요소를 추가하고자 하면
 
