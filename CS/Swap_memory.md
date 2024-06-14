@@ -3,7 +3,7 @@
 ### Swap 스페이스
 물리적 메모리를 대체하는 하드 디스크의 공간이다.
 
-![alt text](Swap1.png)
+![alt text](./images/Swap1.png)
 
 ### 특징
 
