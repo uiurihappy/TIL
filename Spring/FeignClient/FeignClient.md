@@ -21,5 +21,24 @@ Configuration같은 경우에는 Interceptor와 같이 헤더 값을 추가하�
 
 FeignClient를 사용하려면 Application에 `@EnableFeignClients` 어노테이션을 등록해줘야 하고, 옵션 중에 basePackage, clients와 같은 경로 및 정의된 클라이언트를 지정할 수 있다.
 
+## 장점
+- 간결하고 직관적인 API 정의
+- 다양한 기능과 옵션 제공
+- Spring Cloud 생태계에서 연동성
+- 요청에 대한 커스텀 편리성
+- 책임 분리 및 테스트 용이성
 
+## 단점
+- 직접적인 HTTP 통신 제어가 어려움
+- 단점일 수도 있는 동기식 제어
 
+---
+### 공식 문서
+- SpringCloud: https://spring.io/projects/spring-cloud
+
+- FeignClient: https://docs.spring.io/spring-cloud-openfeign/reference/spring-cloud-openfeign.html   
+
+---
+### 참고 자료
+- https://seowoolog.tistory.com/66 
+- https://forkyy.tistory.com/10
